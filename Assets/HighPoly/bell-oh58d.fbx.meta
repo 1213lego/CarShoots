@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 00affbb40ed37cf4aab08e153a7811cf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Balancer_fule
+    100002: //RootNode
+    100004: Camera
+    100006: Cockpit
+    100008: Engine_Cover
+    100010: Fdoor
+    100012: Fuslage
+    100014: MainRotor
+    100016: Rdoor
+    100018: RearRotor
+    100020: Rrotor_Holder
+    100022: Skides
+    100024: TailBalancer
+    100026: Wing
+    400000: Balancer_fule
+    400002: //RootNode
+    400004: Camera
+    400006: Cockpit
+    400008: Engine_Cover
+    400010: Fdoor
+    400012: Fuslage
+    400014: MainRotor
+    400016: Rdoor
+    400018: RearRotor
+    400020: Rrotor_Holder
+    400022: Skides
+    400024: TailBalancer
+    400026: Wing
+    2100000: Camera
+    2100002: RearRotor
+    2100004: Wing
+    2100006: EngineCover
+    2100008: Balance_fule
+    2100010: Stabliser
+    2100012: Skids
+    2100014: R_rotorCover
+    2100016: Floor
+    2100018: Seats
+    2100020: Panel
+    2100022: Sealing
+    2100024: TopPanel
+    2100026: MainRotor
+    2100028: Fdoor
+    2100030: Axis
+    2100032: Rdoor
+    2100034: Fuslage
+    2300000: Balancer_fule
+    2300002: Camera
+    2300004: Cockpit
+    2300006: Engine_Cover
+    2300008: Fdoor
+    2300010: Fuslage
+    2300012: MainRotor
+    2300014: Rdoor
+    2300016: RearRotor
+    2300018: Rrotor_Holder
+    2300020: Skides
+    2300022: TailBalancer
+    2300024: Wing
+    3300000: Balancer_fule
+    3300002: Camera
+    3300004: Cockpit
+    3300006: Engine_Cover
+    3300008: Fdoor
+    3300010: Fuslage
+    3300012: MainRotor
+    3300014: Rdoor
+    3300016: RearRotor
+    3300018: Rrotor_Holder
+    3300020: Skides
+    3300022: TailBalancer
+    3300024: Wing
+    4300000: Camera
+    4300002: RearRotor
+    4300004: Wing
+    4300006: Engine_Cover
+    4300008: Balancer_fule
+    4300010: TailBalancer
+    4300012: Skides
+    4300014: Rrotor_Holder
+    4300016: Cockpit
+    4300018: MainRotor
+    4300020: Fdoor
+    4300022: Rdoor
+    4300024: Fuslage
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
