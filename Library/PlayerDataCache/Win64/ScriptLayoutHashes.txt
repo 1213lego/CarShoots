@@ -1,8 +1,9 @@
 Win64
 PlayerPath?
-C:/Users/Luis Granada/Documents/CarShoot.exe
+C:/Users/Luis Granada/Desktop/juego/CarShoot.exe
 SceneListBegin?
-Assets/Scenes/SampleScene.unity
+Assets/Scenes/menuInicio.unity
+Assets/Scenes/mainMap.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 01aa15e337e3a9c62f15153dfac6d589 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -142,6 +143,7 @@ b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 9cc3904a86f5a119184da7351cdb4e65 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.DepthOfField
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.PostEffectsHelper
+751ce1c542107035a8b6fc25b6ae5d33 Assembly-CSharp.dll:.car_script
 1a9e52e2ff472238deaebe06595ba637 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.ScreenSpaceAmbientOcclusion
 e6ae40841db498b6e673877ac45ad208 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -196,4 +198,4 @@ c8533c9804499b27f7c31b277d275f91 Assembly-CSharp.dll:UnityStandardAssets.ImageEf
 10d40c4c007ed0fe1a397ef11ee530fa Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.ColorCorrectionLookup
 751ce1c542107035a8b6fc25b6ae5d33 Assembly-CSharp.dll:.person_script
 83dffc789cd416ac4ef1fc44f3423e35 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.Tonemapping
-751ce1c542107035a8b6fc25b6ae5d33 Assembly-CSharp.dll:.car_script
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.controlar
